@@ -17,6 +17,30 @@ This is Skill 05 in the InnerG Intel creative sales toolkit. It closes the loop 
 - Project status
 - Notes
 
+## Use In Codex
+
+Paste this into Codex:
+
+```text
+Use Creative Follow-Up Tracker.
+
+Organize these leads, replies, paid customers, and project notes into a follow-up tracker.
+Include stage, priority, next action, due date, next message, payment status, project status, and notes.
+
+Notes:
+[paste notes here]
+```
+
+More examples:
+
+```text
+Use Creative Follow-Up Tracker on these DM replies and paid customer notes. Give me a tracker sorted by priority.
+```
+
+```text
+Use Creative Follow-Up Tracker for customers who paid already but have not sent project info yet. Write the exact follow-up message.
+```
+
 ## Install
 
 ```bash
