@@ -1,0 +1,4 @@
+interface:
+  display_name: "Creative Follow-Up Tracker"
+  short_description: "Track creative leads, follow-ups, status, and next actions."
+  default_prompt: "Turn these creative leads or replies into a follow-up tracker with next actions."
